@@ -1,4 +1,6 @@
-# 🛰️ BLE Raw Advertisement Events for Home Assistant
+# BLE Passthrough
+
+## 🛰️ BLE Raw Advertisement Events for Home Assistant
 
 > 🔎 Capture all raw BLE advertisements (ADV packets) inside Home Assistant — from all Bluetooth adapters and proxies — and forward them as real-time HA events.
 
