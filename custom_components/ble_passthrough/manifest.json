@@ -1,0 +1,15 @@
+{
+  "domain": "ble_passthrough",
+  "name": "BLE Passthrough",
+  "version": "0.0.1",
+  "documentation": "https://github.com/iHost-Open-Source-Project/ble_passthrough/README.md",
+  "requirements": [],
+  "codeowners": [
+    "@LonelystartO"
+  ],
+  "dependencies": [
+    "bluetooth"
+  ],
+  "iot_class": "local_push",
+  "config_flow": false
+}
